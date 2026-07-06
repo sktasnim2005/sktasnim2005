@@ -25,6 +25,3 @@ Welcome to my portfolio! This repository acts as a directory for my development 
 ### 🤝 Connect with Me
 - 💼 LinkedIn: [Sk. Tasnim Ur Rahman](https://www.linkedin.com/in/sk-tasnim-ur-rahman-6742ab373/)
 - 🌐 Portfolio Website: [sktasnim2005.github.io/portfolio/](https://sktasnim2005.github.io/portfolio/)
-
----
-*“The beautiful thing about learning is that nobody can take it away from you.” — B.B. King*
