@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository acts as a directory for my development 
 
 ### 🚀 About Me
 - 🎓 Studying Computer Science and Engineering.
-- 🌐 Check out my live [Web Portfolio](https://github.io).
+- 🌐 Check out my live [Web Portfolio](https://sktasnim2005.github.io/portfolio/).
 - 📚 Currently focused on archiving essential technical literature and mastering software architecture.
 - ⚡ Fun fact: I maintain my own managed book libraries directly on GitHub!
 
@@ -34,15 +34,15 @@ Welcome to my portfolio! This repository acts as a directory for my development 
 ### 📊 GitHub Activity Metrics
 
 <p align="left">
-  <img src="https://allthethings.ch" alt="Tasnim's GitHub Stats" height="180px" />
-  <img src="https://allthethings.ch" alt="Tasnim's Streak Stats" height="180px" />
+  <img src="https://vercel.app" alt="Tasnim's GitHub Stats" height="180px" />
+  <img src="https://herokuapp.com" alt="Tasnim's Streak Stats" height="180px" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-- 💼 LinkedIn: [Sk. Tasnim Ur Rahman](https://linkedin.com)
-- 🌐 Portfolio Website: [sktasnim2005.github.io/portfolio/](https://github.io)
+- 💼 LinkedIn: [Sk. Tasnim Ur Rahman](https://www.linkedin.com/in/sk-tasnim-ur-rahman-6742ab373/)
+- 🌐 Portfolio Website: [sktasnim2005.github.io/portfolio/](https://sktasnim2005.github.io/portfolio/)
 
 ---
 *“The beautiful thing about learning is that nobody can take it away from you.” — B.B. King*
