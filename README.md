@@ -22,17 +22,6 @@ Welcome to my portfolio! This repository acts as a directory for my development 
 | 🔹 JavaScript | 🔹 Git | 🔹 GitHub |
 ---
 
-
-### 📊 GitHub Activity Metrics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Tasnim's Profile Banner" />
-</p>
-
-- 🖥️ **Looking for my live stats?** Click here to view my real-time contributions directly on [My GitHub Profile Activity Page](https://github.com/sktasnim2005).
-
----
-
 ### 🤝 Connect with Me
 - 💼 LinkedIn: [Sk. Tasnim Ur Rahman](https://www.linkedin.com/in/sk-tasnim-ur-rahman-6742ab373/)
 - 🌐 Portfolio Website: [sktasnim2005.github.io/portfolio/](https://sktasnim2005.github.io/portfolio/)
