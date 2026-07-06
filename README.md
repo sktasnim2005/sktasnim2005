@@ -26,9 +26,10 @@ Welcome to my portfolio! This repository acts as a directory for my development 
 ### 📊 GitHub Activity Metrics
 
 <p align="left">
-  <img src="https://vercel.app" alt="Tasnim's GitHub Stats" height="180px" />
-  <img src="https://herokuapp.com" alt="Tasnim's Streak Stats" height="180px" />
+  <img src="https://vercel.app" alt="Tasnim's Profile Banner" />
 </p>
+
+- 🖥️ **Looking for my live stats?** Click here to view my real-time contributions directly on [My GitHub Profile Activity Page](https://github.com/sktasnim2005).
 
 ---
 
